@@ -1,0 +1,5 @@
+G:\0Projects\alineL.NetCore\Unlimit\Core\bin\Debug\netcoreapp1.1\Core.deps.json
+G:\0Projects\alineL.NetCore\Unlimit\Core\bin\Debug\netcoreapp1.1\Core.dll
+G:\0Projects\alineL.NetCore\Unlimit\Core\obj\Debug\netcoreapp1.1\Core.csprojResolveAssemblyReference.cache
+G:\0Projects\alineL.NetCore\Unlimit\Core\obj\Debug\netcoreapp1.1\Core.csproj.CoreCompileInputs.cache
+G:\0Projects\alineL.NetCore\Unlimit\Core\obj\Debug\netcoreapp1.1\Core.AssemblyInfo.cs
