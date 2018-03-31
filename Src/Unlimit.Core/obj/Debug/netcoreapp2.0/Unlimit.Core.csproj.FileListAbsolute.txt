@@ -1,0 +1,4 @@
+E:\1Coding\999自写代码\0Projects\alineL.Core\Unlimit\Unlimit.Core\obj\Debug\netcoreapp2.0\Unlimit.Core.csprojResolveAssemblyReference.cache
+E:\1Coding\999自写代码\0Projects\alineL.Core\Unlimit\Unlimit.Core\obj\Debug\netcoreapp2.0\Unlimit.Core.csproj.CoreCompileInputs.cache
+E:\1Coding\999自写代码\0Projects\alineL.Core\Unlimit\Unlimit.Core\obj\Debug\netcoreapp2.0\Unlimit.Core.AssemblyInfoInputs.cache
+E:\1Coding\999自写代码\0Projects\alineL.Core\Unlimit\Unlimit.Core\obj\Debug\netcoreapp2.0\Unlimit.Core.AssemblyInfo.cs
